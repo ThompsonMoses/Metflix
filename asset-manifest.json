@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Metflix/static/css/main.ea9c86b4.css",
-    "main.js": "/Metflix/static/js/main.d1ff5c81.js",
+    "main.js": "/Metflix/static/js/main.90e07381.js",
     "index.html": "/Metflix/index.html",
     "main.ea9c86b4.css.map": "/Metflix/static/css/main.ea9c86b4.css.map",
-    "main.d1ff5c81.js.map": "/Metflix/static/js/main.d1ff5c81.js.map"
+    "main.90e07381.js.map": "/Metflix/static/js/main.90e07381.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9c86b4.css",
-    "static/js/main.d1ff5c81.js"
+    "static/js/main.90e07381.js"
   ]
 }
